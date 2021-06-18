@@ -3,7 +3,7 @@ const { convert } = require("html-to-text");
 
 const config = {
   method: "get",
-  url: "http://localhost:3000/?url=https://www.zerobounce.net",
+  url: "http://localhost:3000/?url=https://www.google.com",
   headers: {},
 };
 
