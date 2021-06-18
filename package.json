@@ -1,0 +1,15 @@
+{
+  "name": "scrape-js-based-websites",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gettingPageHTML.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^10.0.0"
+  }
+}
